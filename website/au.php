@@ -22,7 +22,7 @@
 </div>
 
 <div class="text">
-Do not see any Australian petition, or what infrastructure would be used. Contact if missed it.
+Tom Bammann created a <a href="http://www.communityrun.org/petitions/thorium-power-generation">Thorium Petition to Australian Federal Government</a>.
 </div>
 
 <div class="space">&nbsp;</div>

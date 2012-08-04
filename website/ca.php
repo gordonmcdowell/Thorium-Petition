@@ -22,7 +22,7 @@
 </div>
 
 <div class="text">
-Do not see any Canadian petition, or what infrastructure would be used. Contact if missed it.
+Eric Dormer created a <a href="http://www.gopetition.com/petitions/lets-invest-in-safe-cost-effective-nuclear-power-lftr.html">Canadian Thorium Petition</a>. 
 </div>
 
 <div class="space">&nbsp;</div>

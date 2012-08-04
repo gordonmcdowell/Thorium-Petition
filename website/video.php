@@ -75,7 +75,7 @@ Here are some of today's best videos on the subject of thorium.
 
 
 <div class="text">
-"Why didn't this happen?" Kirk Sorensen explains to a Google audience why research into Thorium Molten Salt Reactors was cancelled in 1974 (hint: politics!), and we've never looked back.
+"Why didn't this happen?" Kirk Sorensen explains to a Google audience why research into Thorium Molten Salt Reactors was cancelled in 1974 (hint: politics!), and we've never looked back (until now).
 </div>
 
 <div class="space">&nbsp;</div>
@@ -101,6 +101,10 @@ Here are some of today's best videos on the subject of thorium.
 
 <div class="nothing">&nbsp;</div>
 <div class="nothing">&nbsp;</div>
+
+
+
+
 <div class="nothing">&nbsp;</div>
 <div class="nothing">&nbsp;</div>
 <div class="nothing">&nbsp;</div>
